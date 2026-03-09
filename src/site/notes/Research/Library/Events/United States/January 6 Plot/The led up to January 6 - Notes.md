@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/library/events/united-states/january-6-plot/the-led-up-to-january-6-notes/","dgPassFrontmatter":true,"noteIcon":"","updated":"2026-03-08T01:44:24.199-06:00"}
+{"dg-publish":true,"permalink":"/research/library/events/united-states/january-6-plot/the-led-up-to-january-6-notes/","dgPassFrontmatter":true,"updated":"2026-03-08T01:44:24.199-06:00"}
 ---
 
 # Committee Summary

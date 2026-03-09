@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/legal/united-states/u-s-supreme-court/24-1287-learning-resources-inc-v-trump/ieepa-tariffs-trump-doesn-t-have-the-unilateral-power-to-impose-tariffs-notes/","dgPassFrontmatter":true,"noteIcon":"","updated":"2026-03-08T01:44:24.154-06:00"}
+{"dg-publish":true,"permalink":"/research/legal/united-states/u-s-supreme-court/24-1287-learning-resources-inc-v-trump/ieepa-tariffs-trump-doesn-t-have-the-unilateral-power-to-impose-tariffs-notes/","dgPassFrontmatter":true,"updated":"2026-03-08T01:44:24.154-06:00"}
 ---
 
 

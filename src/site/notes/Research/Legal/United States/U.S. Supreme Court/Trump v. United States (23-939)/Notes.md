@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/legal/united-states/u-s-supreme-court/trump-v-united-states-23-939/notes/","dgPassFrontmatter":true,"noteIcon":"","updated":"2026-03-08T01:44:24.138-06:00"}
+{"dg-publish":true,"permalink":"/research/legal/united-states/u-s-supreme-court/trump-v-united-states-23-939/notes/","dgPassFrontmatter":true,"updated":"2026-03-08T01:44:24.138-06:00"}
 ---
 
 

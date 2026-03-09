@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/debate-prep/2026-22-02-macy-and-fey/macy-s-potential-style-of-debating/","dgPassFrontmatter":true,"noteIcon":"","updated":"2026-03-08T01:30:05.985-06:00"}
+{"dg-publish":true,"permalink":"/debate-prep/2026-22-02-macy-and-fey/macy-s-potential-style-of-debating/","dgPassFrontmatter":true,"updated":"2026-03-08T01:30:05.985-06:00"}
 ---
 
 
