@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/research/legal/united-states/u-s-supreme-court/24-1287-learning-resources-inc-v-trump/ieepa-tariffs-trump-doesn-t-have-the-unilateral-power-to-impose-tariffs-notes/","dgPassFrontmatter":true,"updated":"2026-03-08T01:44:24.154-06:00"}
+{"dg-publish":true,"permalink":"/research/legal/united-states/u-s-supreme-court/24-1287-learning-resources-inc-v-trump/ieepa-tariffs-trump-doesn-t-have-the-unilateral-power-to-impose-tariffs-notes/","dgPassFrontmatter":true,"updated":"2026-03-11T18:26:32.928-05:00"}
 ---
 
 
 * https://www.supremecourt.gov/DocketPDF/25/25-250/373615/20250903200201802_Trump_v._VOS_petition-final.pdf
 
 # Relevance
+___
 
 + This case is about separation of powers
 + Specifically Congress's Article | taxation power vs. presidential emergency authority
@@ -24,6 +25,7 @@ This SCOTUS ruling made a clear interpretation:
 
 Vote split: 6-3 decision
 # Major Points of Decisions
+___
 
 + *__Justia: U.S. Supreme Court:__* https://supreme.justia.com/cases/federal/us/607/24-1287/ (2/20/2026)
 
@@ -45,8 +47,11 @@ The IEEPA never concluded that tariffs were part of the usage of regulations of 
 		1. Under the IEEPA the President must recognize that exercising his statutory tariff power must act within the scope of congress's authorizations and abide by Congress's limitations,
 		2. and that the [[Research/Library/Goverment/Executive\|Executive]] must acknowledge that the [[Research/Library/Goverment/Judiciary\|Judiciary]] maintains the final word in justifiable cases on whether Congress has authorized the President to impose those tariffs under IEEPA.
 # Major Points of Dissent
+___
 # Questions for Debates
+___
 # Questions for me to Research
+___
 
 Since IEEPA doesn't give the President the unilateral authority to impose tariffs, can President Trump use Section 232 of the Trade Expansion Act of 1962 to unilaterally impose them?
 + Trump said that he'll continue with new tariffs under Section 232 of the Trade Expansion Act of 1962, saying he'll impose 10% Global Tariff after SCOTUS ruling against it.
