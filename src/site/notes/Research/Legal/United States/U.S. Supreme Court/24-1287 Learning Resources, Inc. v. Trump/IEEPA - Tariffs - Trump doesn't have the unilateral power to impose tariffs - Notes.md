@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/legal/united-states/u-s-supreme-court/24-1287-learning-resources-inc-v-trump/ieepa-tariffs-trump-doesn-t-have-the-unilateral-power-to-impose-tariffs-notes/","dgPassFrontmatter":true,"updated":"2026-03-11T18:26:32.928-05:00"}
+{"dg-publish":true,"permalink":"/research/legal/united-states/u-s-supreme-court/24-1287-learning-resources-inc-v-trump/ieepa-tariffs-trump-doesn-t-have-the-unilateral-power-to-impose-tariffs-notes/","dgPassFrontmatter":true,"updated":"2026-03-12T17:01:40.605-05:00"}
 ---
 
 
@@ -7,7 +7,6 @@
 
 # Relevance
 ___
-
 + This case is about separation of powers
 + Specifically Congress's Article | taxation power vs. presidential emergency authority
 + It defines the limits of the [[Research/Laws/United States/International Emergency Economic Powers Act of 1977 (IEEPA)\|International Emergency Economic Powers Act of 1977 (IEEPA)]]
@@ -26,7 +25,6 @@ This SCOTUS ruling made a clear interpretation:
 Vote split: 6-3 decision
 # Major Points of Decisions
 ___
-
 + *__Justia: U.S. Supreme Court:__* https://supreme.justia.com/cases/federal/us/607/24-1287/ (2/20/2026)
 
 Majority ruled that:
@@ -52,7 +50,6 @@ ___
 ___
 # Questions for me to Research
 ___
-
 Since IEEPA doesn't give the President the unilateral authority to impose tariffs, can President Trump use Section 232 of the Trade Expansion Act of 1962 to unilaterally impose them?
 + Trump said that he'll continue with new tariffs under Section 232 of the Trade Expansion Act of 1962, saying he'll impose 10% Global Tariff after SCOTUS ruling against it.
 *__Bloomberg Television:__* https://www.youtube.com/watch?v=AkgeM_EAxfk

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/research/library/events/united-states/january-6-plot/the-led-up-to-january-6-notes/","dgPassFrontmatter":true,"updated":"2026-03-11T23:43:30.217-05:00"}
+{"dg-publish":true,"permalink":"/research/library/events/united-states/january-6-plot/the-led-up-to-january-6-notes/","dgPassFrontmatter":true,"updated":"2026-03-12T17:02:47.610-05:00"}
 ---
 
 # Summary
-
+___
 January 6 was an insurrectionist attack against the U.S. Capitol, led up by [[Research/Library/People/Donald Trump\|Donald Trump]]. From my understanding, this entire topic includes Supreme Court case(s) for law interpretations, law(s), intent, and acknowledgment.
 
 What **acknowledgment** & **intent** means in this summary;
@@ -25,7 +25,7 @@ What **acknowledgment** & **intent** means in this summary;
 
 This entire note's section will try to crack down on the intellectual framework for the theory (Eastman's memo.), how unlawful it was, and how [[Research/Library/People/Donald Trump\|Donald Trump]] flamed the led up to January 6.
 # Fake Slate electors plot
-
+___
 [[Research/Library/People/Kenneth Chesebro\|Kenneth Chesebro]] was [[Research/Library/People/Donald Trump\|Donald Trump]]'s personal attorney, now ex-attorney had memos plotting a fake slate electors scheme which would have;
 1. Forced [[Research/Library/People/Mike Pence\|Mike Pence]] to reject the votes from the designated states that had more than one elector, this idea goes on with the Eastman memo that would have the President of the Senate unilaterally reject [[Research/Library/People/Joe Biden\|Joe Biden]]'s electors rejected, and [[Research/Library/People/Donald Trump\|Donald Trump]]'s approved,
 
@@ -37,8 +37,9 @@ This entire note's section will try to crack down on the intellectual framework 
 
 In Summary (According to: https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/html-submitted/ch3.html)
 # Dominion machines
+___
 # Eastman's memo
-
+___
 + *__Eastman's Memo document:__* https://www.documentcloud.org/documents/21066248-eastman-memo/
 
 Eastman's memo challenges the electoral count process by suggesting that the Vice President could "legally" unilaterally decide to halt, reject, and accept electors. It challenges;
@@ -52,7 +53,7 @@ Eastman's memo challenges the electoral count process by suggesting that the Vic
 
 The three states listed in this memo Arizona, Georgia, Michigan, Nevada, New Mexico, Pennsylvania, and Wisconsin which all states Trump lost to Biden.
 # Trump's Ellipse speech
-
+___
 * *__Formatting:__* https://en.wikipedia.org/wiki/Timeline_of_the_January_6_United_States_Capitol_attack
 
 The "Save America March" rally where the ellipse speech took place before [[Research/Library/People/Donald Trump\|Donald Trump]]'s mobs stormed the Capitol.
@@ -80,9 +81,11 @@ Trump Supporters, and/or MAGA may try to argue that he told them to go down to t
 2. "And he looked at [[Research/Library/People/Mike Pence\|Mike Pence]], and i hope Mike is going to do the right thing. hope so. I hope so. Because if Mike Pence does the right thing, we win the election. All he has to do, all this is, this is from the number one, or certainly one of the top, Constitutional lawyers in our country. He has the absolute right to do it. We're supposed to protect our country, support our country, support our Constitution, and protect our constitution." and, "And [[Research/Library/People/Mike Pence\|Mike Pence]] is going to have to come through for us, and if he doesn't, that will be a, a sad day for our country because you're sworn to uphold our Constitution."
 	+ At face value, if you know about the entire Eastman's memo (legal theory), you'll easily be able to determine that [[Research/Library/People/Donald Trump\|Donald Trump]] was referring to that memo. Begging Pence to do the "right thing" and saying that he needs to come through for us. He was asking Pence to subvert (which would've violated) the [[Research/Laws/United States/Electoral Count Act of 1887\|Electoral Count Act of 1887]] (ECA).
 # Argument
+___
 # Final Conclusion
+___
 # Further things for me to research
-
+___
 + Does the President have unilateral power to deploy the National Guard in Washington D.C.?
 	+ https://dc.ng.mil/About-Us/
 	1. The President has the ultimate power to deploy the National Guard in the District of Columbia since the National Guard as described is a lower rank, and is directed by the President.
