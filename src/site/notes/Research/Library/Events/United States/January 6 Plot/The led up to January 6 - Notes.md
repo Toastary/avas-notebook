@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/research/library/events/united-states/january-6-plot/the-led-up-to-january-6-notes/","dgPassFrontmatter":true,"updated":"2026-03-08T01:44:24.199-06:00"}
+{"dg-publish":true,"permalink":"/research/library/events/united-states/january-6-plot/the-led-up-to-january-6-notes/","dgPassFrontmatter":true,"updated":"2026-03-11T23:43:30.217-05:00"}
 ---
 
-# Committee Summary
+# Summary
 
 January 6 was an insurrectionist attack against the U.S. Capitol, led up by [[Research/Library/People/Donald Trump\|Donald Trump]]. From my understanding, this entire topic includes Supreme Court case(s) for law interpretations, law(s), intent, and acknowledgment.
 
