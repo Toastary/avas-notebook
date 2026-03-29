@@ -43,7 +43,7 @@ ___
 + *__Eastman's Memo document:__* https://www.documentcloud.org/documents/21066248-eastman-memo/
 
 Eastman's memo challenges the electoral count process by suggesting that the Vice President could "legally" unilaterally decide to halt, reject, and accept electors. It challenges;
-1. [[Research/Laws/United States/Electoral Count Act of 1887\|Electoral Count Act of 1887]],
+1. [[Research/Laws/United States/Federal Laws/Electoral Count Act of 1887\|Electoral Count Act of 1887]],
 2. The 12th Amendment,
 	+ The 12th Amendment ratified by Congress in June 15, 1804, it sets the rules on how congress shall practice the counting of the state electors. As stated;
 	+ https://constitution.congress.gov/constitution/amendment-12/
@@ -79,7 +79,7 @@ Trump Supporters, and/or MAGA may try to argue that he told them to go down to t
 1. He didn't directly tell/ask them to go down to the U.S. Capitol peacefully, if you carefully read/hear the quote, [[Research/Library/People/Donald Trump\|Donald Trump]] said that he **knew** they'll go down to the U.S. Capitol peacefully;
 	+ There's a difference between telling/asking them to go to the U.S. Capitol peacefully and knowing (without evidence nor confirmation) that they'll go down to the U.S. Capitol peacefully. This is crucial because the actuality that took place wasn't peaceful, so he didn't actually know that they'd be going down there peacefully.
 2. "And he looked at [[Research/Library/People/Mike Pence\|Mike Pence]], and i hope Mike is going to do the right thing. hope so. I hope so. Because if Mike Pence does the right thing, we win the election. All he has to do, all this is, this is from the number one, or certainly one of the top, Constitutional lawyers in our country. He has the absolute right to do it. We're supposed to protect our country, support our country, support our Constitution, and protect our constitution." and, "And [[Research/Library/People/Mike Pence\|Mike Pence]] is going to have to come through for us, and if he doesn't, that will be a, a sad day for our country because you're sworn to uphold our Constitution."
-	+ At face value, if you know about the entire Eastman's memo (legal theory), you'll easily be able to determine that [[Research/Library/People/Donald Trump\|Donald Trump]] was referring to that memo. Begging Pence to do the "right thing" and saying that he needs to come through for us. He was asking Pence to subvert (which would've violated) the [[Research/Laws/United States/Electoral Count Act of 1887\|Electoral Count Act of 1887]] (ECA).
+	+ At face value, if you know about the entire Eastman's memo (legal theory), you'll easily be able to determine that [[Research/Library/People/Donald Trump\|Donald Trump]] was referring to that memo. Begging Pence to do the "right thing" and saying that he needs to come through for us. He was asking Pence to subvert (which would've violated) the [[Research/Laws/United States/Federal Laws/Electoral Count Act of 1887\|Electoral Count Act of 1887]] (ECA).
 # Argument
 ___
 # Final Conclusion
@@ -89,7 +89,7 @@ ___
 + Does the President have unilateral power to deploy the National Guard in Washington D.C.?
 	+ https://dc.ng.mil/About-Us/
 	1. The President has the ultimate power to deploy the National Guard in the District of Columbia since the National Guard as described is a lower rank, and is directed by the President.
-	2. Usually the governor of the state will have to approve the deployment of the National Guard, but since District of Columbia falls under the jurisdiction of the [[Research/Library/Geography/United States\|United States]] government, and the President is the Commander in Chief it is his sole power to deploy them to protect our U.S. Capitol; however, if the President invokes the [[Research/Laws/United States/Insurrection Act\|Insurrection Act]], the President then has the unilateral power to deploy the National Guard. (According: https://www.scotusblog.com/2025/10/the-presidents-power-to-deploy-troops-domestically-an-explainer/#:~:text=%C2%A7%2012406%2C%20originally%20passed%20in,without%20National%20Guard%20troops%20present.)
+	2. Usually the governor of the state will have to approve the deployment of the National Guard, but since District of Columbia falls under the jurisdiction of the [[Research/Library/Geography/United States\|United States]] government, and the President is the Commander in Chief it is his sole power to deploy them to protect our U.S. Capitol; however, if the President invokes the [[Research/Laws/United States/Federal Laws/Insurrection Act\|Insurrection Act]], the President then has the unilateral power to deploy the National Guard. (According: https://www.scotusblog.com/2025/10/the-presidents-power-to-deploy-troops-domestically-an-explainer/#:~:text=%C2%A7%2012406%2C%20originally%20passed%20in,without%20National%20Guard%20troops%20present.)
 	3. **Laws;**
 		+	https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12406&num=0&edition=prelim
 			+ 10 USC 12406: National Guard in Federal service: call

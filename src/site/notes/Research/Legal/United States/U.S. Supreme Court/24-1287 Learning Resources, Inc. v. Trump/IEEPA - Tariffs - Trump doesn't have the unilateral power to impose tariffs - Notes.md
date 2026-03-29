@@ -9,7 +9,7 @@
 ___
 + This case is about separation of powers
 + Specifically Congress's Article | taxation power vs. presidential emergency authority
-+ It defines the limits of the [[Research/Laws/United States/International Emergency Economic Powers Act of 1977 (IEEPA)\|International Emergency Economic Powers Act of 1977 (IEEPA)]]
++ It defines the limits of the [[Research/Laws/United States/Federal Laws/International Emergency Economic Powers Act of 1977 (IEEPA)\|International Emergency Economic Powers Act of 1977 (IEEPA)]]
 + It determines whether tariffs imposed under IEEPA were lawful
 # Decision Summary
 
