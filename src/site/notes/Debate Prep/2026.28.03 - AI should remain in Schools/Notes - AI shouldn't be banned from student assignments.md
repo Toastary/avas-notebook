@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/debate-prep/2026-28-03-ai-should-remain-in-schools/notes-ai-shouldn-t-be-banned-from-student-assignments/","dgPassFrontmatter":true,"updated":"2026-03-31T17:21:22.933-05:00"}
+{"dg-publish":true,"permalink":"/debate-prep/2026-28-03-ai-should-remain-in-schools/notes-ai-shouldn-t-be-banned-from-student-assignments/","dgPassFrontmatter":true,"updated":"2026-04-02T00:03:52.854-05:00"}
 ---
 
 
 
 # Opening Speech
 
-+ https://docs.google.com/document/d/1WDJRZdi7BzVY_ysepjNECmaQJ4BXoUEMo_fSFIodyqg/edit?tab=t.0
++ https://docs.google.com/document/d/1Tr2BGGU8m8cBxlXmXR_Ot8wjD8kSdz_GvjO4LiOTJCQ/edit?tab=t.0
 	+ On the Docs:
 		+ Good morning/afternoon, judges, opponents, and audience. Today, I will be arguing that AI should not be banned on school assignments. Even though some people think AI makes it easier to cheat, banning it completely is not the right solution. First, AI can actually help students learn better. It can explain things in different ways, help students understand difficult topics, and give quick feedback. According to a study from MDPI, AI can improve learning and help students stay more engaged in their work. This shows that AI isn’t just about shortcuts—it can be a real learning tool. Second, AI is already a big part of our world, and it’s only going to become more important in the future. A study from Nature says that learning how to use AI is an important skill for students today. If schools ban AI, students won’t get the chance to learn how to use it responsibly, and that could put them behind later in life. Some people might say that AI makes cheating easier. That’s true, but banning it won’t solve that problem. Students can find ways to cheat with or without AI. Instead of banning it, schools should teach students how to use AI honestly and responsibly, just like they do with calculators or the internet. In conclusion, AI should not be banned because it helps students learn, prepares them for the future, and can be used in a responsible way. Instead of banning it, we should learn how to use it the right way.
 
