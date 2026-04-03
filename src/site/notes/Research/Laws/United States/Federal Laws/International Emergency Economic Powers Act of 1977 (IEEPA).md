@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/laws/united-states/federal-laws/international-emergency-economic-powers-act-of-1977-ieepa/","dgPassFrontmatter":true,"updated":"2026-04-01T23:43:21.358-05:00"}
+{"dg-publish":true,"permalink":"/research/laws/united-states/federal-laws/international-emergency-economic-powers-act-of-1977-ieepa/","dgPassFrontmatter":true,"updated":"2026-04-02T00:06:39.114-05:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 + *__Congress:__* https://www.congress.gov/crs-product/R45618
 	+ The International Emergency Economic Act was enacted in 1977, the statute gives the President the authority to regulate economic transactions.
-		+ As the executive, this law granted the branch the authority/control over international investment, migration, and communications between the [[Research/Library/Geography/United States\|United States]] and its enemies
+		+ As the [[Research/Library/Goverment/Executive\|Executive]], this law granted the branch the authority/control over international investment, migration, and communications between the [[Research/Library/Geography/United States\|United States]] and its enemies
 # Relevance
 
 + In 2026, the Supreme Court (SCOTUS) decided to hear the case of Learning Resources, Inc. v. [[Research/Library/People/Donald Trump\|Donald Trump]]
