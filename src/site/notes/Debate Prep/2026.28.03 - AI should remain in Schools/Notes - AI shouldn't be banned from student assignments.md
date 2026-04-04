@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/debate-prep/2026-28-03-ai-should-remain-in-schools/notes-ai-shouldn-t-be-banned-from-student-assignments/","dgPassFrontmatter":true,"updated":"2026-04-02T00:03:52.854-05:00"}
+{"dg-publish":true,"permalink":"/debate-prep/2026-28-03-ai-should-remain-in-schools/notes-ai-shouldn-t-be-banned-from-student-assignments/","dgPassFrontmatter":true,"updated":"2026-04-02T00:03:52.854-05:00","dg-note-properties":{}}
 ---
 
 

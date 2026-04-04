@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/real-time-claims-trump-has-made-on-iran-sources/","dgPassFrontmatter":true,"updated":"2026-04-01T23:52:28.550-05:00"}
+{"dg-publish":true,"permalink":"/real-time-claims-trump-has-made-on-iran-sources/","dgPassFrontmatter":true,"updated":"2026-04-01T23:52:28.550-05:00","dg-note-properties":{}}
 ---
 
 

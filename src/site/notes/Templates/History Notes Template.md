@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/history-notes-template/","dgPassFrontmatter":true,"updated":"2026-03-12T16:59:16.917-05:00"}
+{"dg-publish":true,"permalink":"/templates/history-notes-template/","dgPassFrontmatter":true,"updated":"2026-03-12T16:59:16.917-05:00","dg-note-properties":{}}
 ---
 
 

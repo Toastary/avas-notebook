@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/laws/united-states/federal-laws/trade-expansion-act-of-1962/","dgPassFrontmatter":true,"updated":"2026-04-01T23:31:58.324-05:00"}
+{"dg-publish":true,"permalink":"/research/laws/united-states/federal-laws/trade-expansion-act-of-1962/","dgPassFrontmatter":true,"updated":"2026-04-01T23:31:58.324-05:00","dg-note-properties":{}}
 ---
 
 

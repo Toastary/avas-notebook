@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/destiny-s-context-of-clips-or-wtv/","dgPassFrontmatter":true,"updated":"2026-04-01T22:25:54.811-05:00"}
+{"dg-publish":true,"permalink":"/destiny-s-context-of-clips-or-wtv/","dgPassFrontmatter":true,"updated":"2026-04-01T22:25:54.811-05:00","dg-note-properties":{}}
 ---
 
 

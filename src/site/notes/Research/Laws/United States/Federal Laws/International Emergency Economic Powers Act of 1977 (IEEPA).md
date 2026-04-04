@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/laws/united-states/federal-laws/international-emergency-economic-powers-act-of-1977-ieepa/","dgPassFrontmatter":true,"updated":"2026-04-02T00:06:39.114-05:00"}
+{"dg-publish":true,"permalink":"/research/laws/united-states/federal-laws/international-emergency-economic-powers-act-of-1977-ieepa/","dgPassFrontmatter":true,"updated":"2026-04-02T00:06:39.114-05:00","dg-note-properties":{}}
 ---
 
 

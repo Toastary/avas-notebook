@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/laws/united-states/federal-laws/electoral-count-act-of-1887/","dgPassFrontmatter":true,"updated":"2026-03-08T01:44:24.127-06:00"}
+{"dg-publish":true,"permalink":"/research/laws/united-states/federal-laws/electoral-count-act-of-1887/","dgPassFrontmatter":true,"updated":"2026-03-08T01:44:24.127-06:00","dg-note-properties":{}}
 ---
 
 

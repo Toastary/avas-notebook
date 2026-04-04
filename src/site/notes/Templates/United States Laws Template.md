@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/united-states-laws-template/","dgPassFrontmatter":true,"updated":"2026-03-12T17:00:44.344-05:00"}
+{"dg-publish":true,"permalink":"/templates/united-states-laws-template/","dgPassFrontmatter":true,"updated":"2026-03-12T17:00:44.344-05:00","dg-note-properties":{}}
 ---
 
 
