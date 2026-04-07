@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/legal/united-states/u-s-supreme-court/trump-v-united-states-23-939/notes/","dgPassFrontmatter":true,"updated":"2026-03-12T17:01:22.029-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/research/legal/united-states/u-s-supreme-court/trump-v-united-states-23-939/notes/","dgPassFrontmatter":true,"updated":"2026-04-07T17:06:09.651-05:00","dg-note-properties":{}}
 ---
 
 
@@ -17,4 +17,4 @@ ___
 # Notes
 ___
 # Questions for me to Research
-___
+---
