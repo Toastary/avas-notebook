@@ -17,7 +17,7 @@
 				+ The Secretary of Commerce must initiate investigation, and has 270 days to submit a report to the President. Then, if the Commerce finds a threat, the President has 90 days to decide if they concur with those findings, if the President agrees, they can then implement tariffs or quotas under Section 232
 # Constitutional Authority
 
-+ Under the recent interpretation of the law by the Supreme court ([[Research/Legal/United States/U.S. Supreme Court/24-1287 Learning Resources, Inc. v. Trump/IEEPA - Tariffs - Trump doesn't have the unilateral power to impose tariffs - Notes\|IEEPA - Tariffs - Trump doesn't have the unilateral power to impose tariffs - Notes]]), the Court set the legal authority of the president under this law
++ Under the recent interpretation of the law by the Supreme court ([[Research/Library/Archived Notes/IEEPA - Tariffs - Trump doesn't have the unilateral power to impose tariffs - Notes\|IEEPA - Tariffs - Trump doesn't have the unilateral power to impose tariffs - Notes]]), the Court set the legal authority of the president under this law
 	+ The Supreme Court ruling made it clear of what the president can or cannot do, here's the decision summary
 		1. The tariffs that were imposed under IEEPA were not done through the actual statutory of that law
 		2. SCOTUS ruled that the IEEPA doesn't give the President the unilateral authority to impose tariffs on goods without the approval of Congress
