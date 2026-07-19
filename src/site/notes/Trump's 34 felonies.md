@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trump-s-34-felonies/","dgPassFrontmatter":true,"updated":"2026-07-09T10:37:33.455-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/trump-s-34-felonies/","dgPassFrontmatter":true,"updated":"2026-07-19T00:06:09.620-05:00","dg-note-properties":{}}
 ---
 
 
@@ -8,9 +8,9 @@ On May 30, 2024 [[Research/Library/People/Donald Trump\|Donald Trump]] was convi
 ___
 [Prosecution of Donald Trump in New York](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York) | Wikipedia. Accessed in Wednesday, July 8
 [People v Donald J. Trump (Criminal)](https://www.nycourts.gov/public-information/people-v-donald-j-trump-criminal) | New York Courts. Accessed in Wednesday, July 8
+___
 ## Michael Cohen "fixer"
 Michael Cohen was Trump's former executive and attorney for the Trump Organization.
-___
 ## 2016 Election
 ## Stormy Daniels
 ## First-Degree Falsifying Business Records | Law
@@ -26,3 +26,5 @@ First-Degree of falsifying business records is a class e felony in the state of 
 						degree, and when his intent to defraud includes an intent to commit  
 						another crime or to aid or conceal the commission thereof.  
 						Falsifying business records in the first degree is a class E felony.
+
+## Notes
